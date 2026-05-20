@@ -1,6 +1,7 @@
-## SuperStore-Sales-Dashboard-Power-BI
+# SuperStore-Sales-Dashboard-Power-BI
 Objective is to help the business grow by using data analysis and time series forecasting to provide useful insights and predict future sales.
-# DESCRIPTION
+
+## DESCRIPTION
 •	Created interactive dashboards with KPIs, charts, and filters for better data analysis.
 
 •	Analyzed sales data to identify trends and measure sales performance.
@@ -9,7 +10,7 @@ Objective is to help the business grow by using data analysis and time series fo
 
 •	Provided actionable insights and recommendations to support business growth, efficiency, and customer satisfaction.
 
-# INSIGHTS
+## INSIGHTS
 •	Most payments are made through COD, while card payments are lowest. Card offers can help increase sales.
 
 •	Consumer segment generates the highest sales.
