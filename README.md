@@ -1,4 +1,4 @@
-# SuperStore-Sales-Dashboard-Power-BI
+## SuperStore-Sales-Dashboard-Power-BI
 Objective is to help the business grow by using data analysis and time series forecasting to provide useful insights and predict future sales.
 # DESCRIPTION
 •	Created interactive dashboards with KPIs, charts, and filters for better data analysis.
